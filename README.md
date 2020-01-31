@@ -1,3 +1,6 @@
+***Web application for face recognition***
+
+
 **Extract embeddings from face dataset**
 
  `python3  extract_embeddings.py --dataset dataset \
